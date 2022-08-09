@@ -1,4 +1,4 @@
-# metagenome
+# Metagenome
 
 ## Workflows for metagenomic processing
 
