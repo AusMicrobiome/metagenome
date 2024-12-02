@@ -15,10 +15,13 @@ The workflow consists of the following stages:
 
 The following software is used:
 
-	1. Squeezemeta version 1.4.0 (Tamames and Puente-Sanchez 2019)
-	2. Squeezemeta database build date for this workflow is: May 12 07:09:20 2021
-	3. Perl 5.32.1
-	4. Python 3
+	1. Squeezemeta (Tamames and Puente-Sanchez 2019)
+	2. Perl 5.32.1
+	3. Python 3
+
+Squeezemeta version and database build date used for analysis is provided in the methods file:
+
+	sampleID_MGSD_CSIRO.sqmreads.out.methods.txt
 
 ### A] File preparation and naming
 #### A-1] Preparation of input files
